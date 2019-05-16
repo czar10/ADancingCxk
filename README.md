@@ -1,5 +1,5 @@
 
 ### This is a website describing me and my work.
 
-![Logo of mine](logo.png width="200")
+![Logo of mine](logo.png)
 
