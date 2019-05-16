@@ -1,2 +1,4 @@
-# MyWebsite
-A website describes me
+# Welcome to my personal website
+
+### This is a website describing me and my work. 
+
